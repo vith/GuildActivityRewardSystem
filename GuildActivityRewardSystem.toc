@@ -1,0 +1,9 @@
+## Interface: 40200
+## Title: GuildActivityRewardSystem
+## Notes: Track and reward guild activity between snapshots.  Detects alts by guild note.
+## Version: 0.1
+## Author: Vith <failsport> @ Moonrunner US
+## SavedVariables: GuildActivityRewardSystemDB
+
+libStub.lua
+GuildActivityRewardSystem.lua
